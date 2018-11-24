@@ -1,6 +1,6 @@
 package android.mohamedalaa.com.lib_ui;
 
-import android.support.v7.widget.AppCompatTextView;
+import android.support.v4.app.DialogFragment;
 
 /**
  * Created by Mohamed on 11/24/2018.
@@ -9,7 +9,7 @@ import android.support.v7.widget.AppCompatTextView;
 public class T11 {
 
     private void m1(){
-        AppCompatTextView textView;
+        DialogFragment h;
     }
 
 }
