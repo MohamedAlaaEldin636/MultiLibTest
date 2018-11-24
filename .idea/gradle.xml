@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/lib-all" />
             <option value="$PROJECT_DIR$/lib-core" />
             <option value="$PROJECT_DIR$/lib-gson" />
             <option value="$PROJECT_DIR$/sample" />

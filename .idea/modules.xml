@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultiLibTest.iml" filepath="$PROJECT_DIR$/MultiLibTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-all/lib-all.iml" filepath="$PROJECT_DIR$/lib-all/lib-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-core/lib-core.iml" filepath="$PROJECT_DIR$/lib-core/lib-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-gson/lib-gson.iml" filepath="$PROJECT_DIR$/lib-gson/lib-gson.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
