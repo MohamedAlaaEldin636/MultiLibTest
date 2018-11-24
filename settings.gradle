@@ -1,1 +1,4 @@
-include ':sample', ':lib-core', ':lib-gson'
+include ':lib-core', ':lib-gson'
+
+if (!System.env.JITPACK)
+    include ':sample'
